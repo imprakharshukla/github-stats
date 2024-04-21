@@ -1,4 +1,28 @@
 {
+    "TypeScript": {
+        "size": 5772275,
+        "occurrences": 42,
+        "color": "#3178c6",
+        "prop": 36.40155025883157
+    },
+    "JavaScript": {
+        "size": 1877843,
+        "occurrences": 64,
+        "color": "#f1e05a",
+        "prop": 11.842193302068086
+    },
+    "CSS": {
+        "size": 2024727,
+        "occurrences": 42,
+        "color": "#563d7c",
+        "prop": 12.768484116039739
+    },
+    "Python": {
+        "size": 812764,
+        "occurrences": 10,
+        "color": "#3572A5",
+        "prop": 5.125512834119821
+    },
     "MDX": {
         "size": 124436,
         "occurrences": 3,
@@ -29,12 +53,6 @@
         "color": "#f34b7d",
         "prop": 0.6585579328738708
     },
-    "Python": {
-        "size": 812764,
-        "occurrences": 10,
-        "color": "#3572A5",
-        "prop": 5.125512834119821
-    },
     "Vim Script": {
         "size": 5161,
         "occurrences": 1,
@@ -64,24 +82,6 @@
         "occurrences": 1,
         "color": "#012456",
         "prop": 0.0053224956223419445
-    },
-    "TypeScript": {
-        "size": 5772275,
-        "occurrences": 42,
-        "color": "#3178c6",
-        "prop": 36.40155025883157
-    },
-    "CSS": {
-        "size": 2024727,
-        "occurrences": 42,
-        "color": "#563d7c",
-        "prop": 12.768484116039739
-    },
-    "JavaScript": {
-        "size": 1877843,
-        "occurrences": 64,
-        "color": "#f1e05a",
-        "prop": 11.842193302068086
     },
     "Vue": {
         "size": 327760,
