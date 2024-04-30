@@ -1,4 +1,46 @@
 {
+    "TypeScript": {
+        "size": 5809724,
+        "occurrences": 43,
+        "color": "#3178c6",
+        "prop": 36.51343598013852
+    },
+    "Astro": {
+        "size": 32195,
+        "occurrences": 1,
+        "color": "#ff5a03",
+        "prop": 0.2023418102788634
+    },
+    "MDX": {
+        "size": 129650,
+        "occurrences": 4,
+        "color": "#fcb32c",
+        "prop": 0.8148350893820356
+    },
+    "JavaScript": {
+        "size": 1879257,
+        "occurrences": 64,
+        "color": "#f1e05a",
+        "prop": 11.810910494152074
+    },
+    "CSS": {
+        "size": 2032096,
+        "occurrences": 42,
+        "color": "#563d7c",
+        "prop": 12.77148573692925
+    },
+    "Dockerfile": {
+        "size": 12489,
+        "occurrences": 10,
+        "color": "#384d54",
+        "prop": 0.078491904599246
+    },
+    "Python": {
+        "size": 812764,
+        "occurrences": 10,
+        "color": "#3572A5",
+        "prop": 5.108126699471661
+    },
     "Shell": {
         "size": 1085427,
         "occurrences": 12,
@@ -23,12 +65,6 @@
         "color": "#f34b7d",
         "prop": 0.6563240535987397
     },
-    "Python": {
-        "size": 812764,
-        "occurrences": 10,
-        "color": "#3572A5",
-        "prop": 5.108126699471661
-    },
     "Vim Script": {
         "size": 5161,
         "occurrences": 1,
@@ -47,47 +83,11 @@
         "color": "#701516",
         "prop": 0.008924533952352416
     },
-    "Dockerfile": {
-        "size": 12489,
-        "occurrences": 10,
-        "color": "#384d54",
-        "prop": 0.078491904599246
-    },
     "PowerShell": {
         "size": 844,
         "occurrences": 1,
         "color": "#012456",
         "prop": 0.005304441306891154
-    },
-    "TypeScript": {
-        "size": 5809724,
-        "occurrences": 43,
-        "color": "#3178c6",
-        "prop": 36.51343598013852
-    },
-    "CSS": {
-        "size": 2032096,
-        "occurrences": 42,
-        "color": "#563d7c",
-        "prop": 12.77148573692925
-    },
-    "JavaScript": {
-        "size": 1879257,
-        "occurrences": 64,
-        "color": "#f1e05a",
-        "prop": 11.810910494152074
-    },
-    "Astro": {
-        "size": 32195,
-        "occurrences": 1,
-        "color": "#ff5a03",
-        "prop": 0.2023418102788634
-    },
-    "MDX": {
-        "size": 129650,
-        "occurrences": 4,
-        "color": "#fcb32c",
-        "prop": 0.8148350893820356
     },
     "Vue": {
         "size": 327760,
