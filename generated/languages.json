@@ -1,4 +1,22 @@
 {
+    "Vue": {
+        "size": 327760,
+        "occurrences": 5,
+        "color": "#41b883",
+        "prop": 1.9919674653417354
+    },
+    "JavaScript": {
+        "size": 1877465,
+        "occurrences": 64,
+        "color": "#f1e05a",
+        "prop": 11.410328280808582
+    },
+    "CSS": {
+        "size": 2030384,
+        "occurrences": 42,
+        "color": "#563d7c",
+        "prop": 12.339696333141365
+    },
     "Python": {
         "size": 812764,
         "occurrences": 10,
@@ -65,29 +83,11 @@
         "color": "#3178c6",
         "prop": 38.58293175116889
     },
-    "JavaScript": {
-        "size": 1877465,
-        "occurrences": 64,
-        "color": "#f1e05a",
-        "prop": 11.410328280808582
-    },
     "PLpgSQL": {
         "size": 5910,
         "occurrences": 1,
         "color": "#336790",
         "prop": 0.03591813436712733
-    },
-    "CSS": {
-        "size": 2030384,
-        "occurrences": 42,
-        "color": "#563d7c",
-        "prop": 12.339696333141365
-    },
-    "Vue": {
-        "size": 327760,
-        "occurrences": 5,
-        "color": "#41b883",
-        "prop": 1.9919674653417354
     },
     "Astro": {
         "size": 32195,
