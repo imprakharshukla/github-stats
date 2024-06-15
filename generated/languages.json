@@ -1,4 +1,10 @@
 {
+    "Java": {
+        "size": 2363613,
+        "occurrences": 18,
+        "color": "#b07219",
+        "prop": 14.106513137528257
+    },
     "Python": {
         "size": 812764,
         "occurrences": 10,
@@ -124,12 +130,6 @@
         "occurrences": 6,
         "color": "#A97BFF",
         "prop": 3.1926583033495977
-    },
-    "Java": {
-        "size": 2363613,
-        "occurrences": 18,
-        "color": "#b07219",
-        "prop": 14.106513137528257
     },
     "Solidity": {
         "size": 1638,
