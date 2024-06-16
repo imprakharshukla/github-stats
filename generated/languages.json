@@ -1,15 +1,15 @@
 {
-    "Java": {
-        "size": 2363613,
-        "occurrences": 18,
-        "color": "#b07219",
-        "prop": 14.106513137528257
-    },
     "Python": {
         "size": 812764,
         "occurrences": 10,
         "color": "#3572A5",
         "prop": 4.850737427704965
+    },
+    "Java": {
+        "size": 2363613,
+        "occurrences": 18,
+        "color": "#b07219",
+        "prop": 14.106513137528257
     },
     "Shell": {
         "size": 1086762,
