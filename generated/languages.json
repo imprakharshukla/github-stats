@@ -1,34 +1,4 @@
 {
-    "Vue": {
-        "size": 327760,
-        "occurrences": 5,
-        "color": "#41b883",
-        "prop": 1.9561369589506665
-    },
-    "JavaScript": {
-        "size": 1877931,
-        "occurrences": 65,
-        "color": "#f1e05a",
-        "prop": 11.207866229738785
-    },
-    "CSS": {
-        "size": 2032257,
-        "occurrences": 43,
-        "color": "#563d7c",
-        "prop": 12.128914534373337
-    },
-    "Python": {
-        "size": 812764,
-        "occurrences": 10,
-        "color": "#3572A5",
-        "prop": 4.850737427704965
-    },
-    "Java": {
-        "size": 2363613,
-        "occurrences": 18,
-        "color": "#b07219",
-        "prop": 14.106513137528257
-    },
     "Shell": {
         "size": 1086762,
         "occurrences": 13,
@@ -52,6 +22,12 @@
         "occurrences": 1,
         "color": "#f34b7d",
         "prop": 0.6232530708025968
+    },
+    "Python": {
+        "size": 812764,
+        "occurrences": 10,
+        "color": "#3572A5",
+        "prop": 4.850737427704965
     },
     "Vim Script": {
         "size": 5161,
@@ -82,6 +58,30 @@
         "occurrences": 1,
         "color": "#012456",
         "prop": 0.005037160096882971
+    },
+    "Vue": {
+        "size": 327760,
+        "occurrences": 5,
+        "color": "#41b883",
+        "prop": 1.9561369589506665
+    },
+    "JavaScript": {
+        "size": 1877931,
+        "occurrences": 65,
+        "color": "#f1e05a",
+        "prop": 11.207866229738785
+    },
+    "CSS": {
+        "size": 2032257,
+        "occurrences": 43,
+        "color": "#563d7c",
+        "prop": 12.128914534373337
+    },
+    "Java": {
+        "size": 2363613,
+        "occurrences": 18,
+        "color": "#b07219",
+        "prop": 14.106513137528257
     },
     "TypeScript": {
         "size": 6642168,
