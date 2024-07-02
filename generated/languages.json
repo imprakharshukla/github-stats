@@ -5,23 +5,17 @@
         "color": "#3178c6",
         "prop": 40.25633702029904
     },
-    "JavaScript": {
-        "size": 1877908,
-        "occurrences": 65,
-        "color": "#f1e05a",
-        "prop": 11.091183801495175
-    },
-    "PLpgSQL": {
-        "size": 6645,
-        "occurrences": 1,
-        "color": "#336790",
-        "prop": 0.0392462870177535
-    },
     "CSS": {
         "size": 2032369,
         "occurrences": 43,
         "color": "#563d7c",
         "prop": 12.003451783293402
+    },
+    "JavaScript": {
+        "size": 1877908,
+        "occurrences": 65,
+        "color": "#f1e05a",
+        "prop": 11.091183801495175
     },
     "Dockerfile": {
         "size": 15594,
@@ -29,17 +23,35 @@
         "color": "#384d54",
         "prop": 0.09210031599019534
     },
-    "Shell": {
-        "size": 1087794,
-        "occurrences": 14,
-        "color": "#89e051",
-        "prop": 6.424661480841257
+    "Kotlin": {
+        "size": 534945,
+        "occurrences": 6,
+        "color": "#A97BFF",
+        "prop": 3.1594589930341823
+    },
+    "Vue": {
+        "size": 327760,
+        "occurrences": 5,
+        "color": "#41b883",
+        "prop": 1.9357957912624357
     },
     "Python": {
         "size": 814135,
         "occurrences": 11,
         "color": "#3572A5",
         "prop": 4.808393661579946
+    },
+    "PLpgSQL": {
+        "size": 6645,
+        "occurrences": 1,
+        "color": "#336790",
+        "prop": 0.0392462870177535
+    },
+    "Shell": {
+        "size": 1087794,
+        "occurrences": 14,
+        "color": "#89e051",
+        "prop": 6.424661480841257
     },
     "MDX": {
         "size": 129374,
@@ -89,12 +101,6 @@
         "color": "#012456",
         "prop": 0.004984780472984793
     },
-    "Vue": {
-        "size": 327760,
-        "occurrences": 5,
-        "color": "#41b883",
-        "prop": 1.9357957912624357
-    },
     "Java": {
         "size": 2363613,
         "occurrences": 18,
@@ -124,12 +130,6 @@
         "occurrences": 1,
         "color": "#ff5a03",
         "prop": 0.1992908145733719
-    },
-    "Kotlin": {
-        "size": 534945,
-        "occurrences": 6,
-        "color": "#A97BFF",
-        "prop": 3.1594589930341823
     },
     "Solidity": {
         "size": 1638,
