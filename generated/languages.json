@@ -1,4 +1,10 @@
 {
+    "Python": {
+        "size": 814135,
+        "occurrences": 11,
+        "color": "#3572A5",
+        "prop": 4.79753091876045
+    },
     "TypeScript": {
         "size": 6853794,
         "occurrences": 44,
@@ -34,12 +40,6 @@
         "occurrences": 14,
         "color": "#89e051",
         "prop": 6.41014739354297
-    },
-    "Python": {
-        "size": 814135,
-        "occurrences": 11,
-        "color": "#3572A5",
-        "prop": 4.79753091876045
     },
     "Kotlin": {
         "size": 534945,
