@@ -1,9 +1,9 @@
 {
-    "TypeScript": {
-        "size": 7145530,
-        "occurrences": 46,
-        "color": "#3178c6",
-        "prop": 41.09135134628457
+    "Vue": {
+        "size": 327760,
+        "occurrences": 5,
+        "color": "#41b883",
+        "prop": 1.8848288814487142
     },
     "JavaScript": {
         "size": 1977324,
@@ -17,12 +17,6 @@
         "color": "#563d7c",
         "prop": 11.802907027664073
     },
-    "Dockerfile": {
-        "size": 17028,
-        "occurrences": 13,
-        "color": "#384d54",
-        "prop": 0.09792185194443712
-    },
     "HTML": {
         "size": 168125,
         "occurrences": 15,
@@ -34,6 +28,36 @@
         "occurrences": 14,
         "color": "#89e051",
         "prop": 6.261868955972373
+    },
+    "Python": {
+        "size": 817943,
+        "occurrences": 12,
+        "color": "#3572A5",
+        "prop": 4.703693525075683
+    },
+    "Makefile": {
+        "size": 1930,
+        "occurrences": 2,
+        "color": "#427819",
+        "prop": 0.011098729989004207
+    },
+    "Perl": {
+        "size": 396,
+        "occurrences": 1,
+        "color": "#0298c3",
+        "prop": 0.002277252370800863
+    },
+    "TypeScript": {
+        "size": 7145530,
+        "occurrences": 46,
+        "color": "#3178c6",
+        "prop": 41.09135134628457
+    },
+    "Dockerfile": {
+        "size": 17028,
+        "occurrences": 13,
+        "color": "#384d54",
+        "prop": 0.09792185194443712
     },
     "C": {
         "size": 396654,
@@ -52,12 +76,6 @@
         "occurrences": 1,
         "color": "#f34b7d",
         "prop": 0.6005333026019276
-    },
-    "Python": {
-        "size": 817943,
-        "occurrences": 12,
-        "color": "#3572A5",
-        "prop": 4.703693525075683
     },
     "Vim Script": {
         "size": 5161,
@@ -94,24 +112,6 @@
         "occurrences": 1,
         "color": "#336790",
         "prop": 0.03821298485851449
-    },
-    "Makefile": {
-        "size": 1930,
-        "occurrences": 2,
-        "color": "#427819",
-        "prop": 0.011098729989004207
-    },
-    "Perl": {
-        "size": 396,
-        "occurrences": 1,
-        "color": "#0298c3",
-        "prop": 0.002277252370800863
-    },
-    "Vue": {
-        "size": 327760,
-        "occurrences": 5,
-        "color": "#41b883",
-        "prop": 1.8848288814487142
     },
     "Astro": {
         "size": 33753,
