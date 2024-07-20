@@ -1,4 +1,10 @@
 {
+    "Python": {
+        "size": 817943,
+        "occurrences": 12,
+        "color": "#3572A5",
+        "prop": 4.703693525075683
+    },
     "Vue": {
         "size": 327760,
         "occurrences": 5,
@@ -28,12 +34,6 @@
         "occurrences": 14,
         "color": "#89e051",
         "prop": 6.261868955972373
-    },
-    "Python": {
-        "size": 817943,
-        "occurrences": 12,
-        "color": "#3572A5",
-        "prop": 4.703693525075683
     },
     "Makefile": {
         "size": 1930,
