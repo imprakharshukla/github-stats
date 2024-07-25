@@ -1,4 +1,10 @@
 {
+    "Python": {
+        "size": 817943,
+        "occurrences": 12,
+        "color": "#3572A5",
+        "prop": 4.670975380188499
+    },
     "TypeScript": {
         "size": 7269540,
         "occurrences": 46,
@@ -28,12 +34,6 @@
         "occurrences": 15,
         "color": "#e34c26",
         "prop": 0.9601008087289595
-    },
-    "Python": {
-        "size": 817943,
-        "occurrences": 12,
-        "color": "#3572A5",
-        "prop": 4.670975380188499
     },
     "PLpgSQL": {
         "size": 6645,
