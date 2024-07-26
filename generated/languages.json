@@ -1,15 +1,9 @@
 {
-    "Python": {
-        "size": 817943,
-        "occurrences": 12,
-        "color": "#3572A5",
-        "prop": 4.670975380188499
-    },
-    "TypeScript": {
-        "size": 7269540,
-        "occurrences": 46,
-        "color": "#3178c6",
-        "prop": 41.51370250163581
+    "Vue": {
+        "size": 327760,
+        "occurrences": 5,
+        "color": "#41b883",
+        "prop": 1.8717183111911007
     },
     "JavaScript": {
         "size": 1975247,
@@ -22,6 +16,18 @@
         "occurrences": 46,
         "color": "#563d7c",
         "prop": 11.722172723691639
+    },
+    "Python": {
+        "size": 817943,
+        "occurrences": 12,
+        "color": "#3572A5",
+        "prop": 4.670975380188499
+    },
+    "TypeScript": {
+        "size": 7269540,
+        "occurrences": 46,
+        "color": "#3178c6",
+        "prop": 41.51370250163581
     },
     "Dockerfile": {
         "size": 17118,
@@ -46,12 +52,6 @@
         "occurrences": 14,
         "color": "#89e051",
         "prop": 6.2157026293256505
-    },
-    "Vue": {
-        "size": 327760,
-        "occurrences": 5,
-        "color": "#41b883",
-        "prop": 1.8717183111911007
     },
     "Makefile": {
         "size": 1930,
