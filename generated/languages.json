@@ -1,158 +1,158 @@
 {
+    "TypeScript": {
+        "size": 7461297,
+        "occurrences": 46,
+        "color": "#3178c6",
+        "prop": 42.13523091881133
+    },
     "Python": {
         "size": 821932,
         "occurrences": 13,
         "color": "#3572A5",
-        "prop": 4.64961542179885
-    },
-    "TypeScript": {
-        "size": 7430841,
-        "occurrences": 46,
-        "color": "#3178c6",
-        "prop": 42.03578022334595
+        "prop": 4.641591752688632
     },
     "JavaScript": {
         "size": 1974260,
         "occurrences": 68,
         "color": "#f1e05a",
-        "prop": 11.168259348267979
-    },
-    "PLpgSQL": {
-        "size": 8470,
-        "occurrences": 2,
-        "color": "#336790",
-        "prop": 0.047914234538424416
+        "prop": 11.148986696786425
     },
     "CSS": {
         "size": 2052690,
         "occurrences": 46,
         "color": "#563d7c",
-        "prop": 11.611932714838066
+        "prop": 11.591894432661618
     },
-    "Shell": {
-        "size": 1088529,
-        "occurrences": 14,
-        "color": "#89e051",
-        "prop": 6.157737167399834
+    "PLpgSQL": {
+        "size": 8470,
+        "occurrences": 2,
+        "color": "#336790",
+        "prop": 0.0478315507186394
     },
     "Dockerfile": {
         "size": 17118,
         "occurrences": 13,
         "color": "#384d54",
-        "prop": 0.09683540340363035
-    },
-    "Vue": {
-        "size": 327760,
-        "occurrences": 5,
-        "color": "#41b883",
-        "prop": 1.8541168255388416
-    },
-    "MDX": {
-        "size": 129374,
-        "occurrences": 4,
-        "color": "#fcb32c",
-        "prop": 0.7318602336687273
+        "prop": 0.09666829813478976
     },
     "HTML": {
-        "size": 168125,
+        "size": 168227,
         "occurrences": 15,
         "color": "#e34c26",
-        "prop": 0.9510720993828341
+        "prop": 0.9500068810796399
     },
     "Procfile": {
         "size": 64,
         "occurrences": 3,
         "color": "#3B2F63",
-        "prop": 0.0003620438028877406
+        "prop": 0.0003614190373073107
+    },
+    "Shell": {
+        "size": 1088529,
+        "occurrences": 14,
+        "color": "#89e051",
+        "prop": 6.147110988454525
+    },
+    "Vue": {
+        "size": 327760,
+        "occurrences": 5,
+        "color": "#41b883",
+        "prop": 1.850917244810065
+    },
+    "MDX": {
+        "size": 129374,
+        "occurrences": 4,
+        "color": "#fcb32c",
+        "prop": 0.7305972895718127
     },
     "C": {
         "size": 396654,
         "occurrences": 10,
         "color": "#555555",
-        "prop": 2.243845665478654
+        "prop": 2.239973544126469
     },
     "Roff": {
         "size": 188279,
         "occurrences": 1,
         "color": "#ecdebe",
-        "prop": 1.0650819556859517
+        "prop": 1.0632439832059868
     },
     "C++": {
         "size": 104429,
         "occurrences": 1,
         "color": "#f34b7d",
-        "prop": 0.5907480045588104
+        "prop": 0.5897285726088305
     },
     "Vim Script": {
         "size": 5161,
         "occurrences": 1,
         "color": "#199f4b",
-        "prop": 0.029195438542244205
+        "prop": 0.02914505705535985
     },
     "Assembly": {
         "size": 4440,
         "occurrences": 1,
         "color": "#6E4C13",
-        "prop": 0.025116788825337
+        "prop": 0.02507344571319468
     },
     "Ruby": {
         "size": 1420,
         "occurrences": 1,
         "color": "#701516",
-        "prop": 0.008032846876571744
+        "prop": 0.008018984890255956
     },
     "PowerShell": {
         "size": 844,
         "occurrences": 1,
         "color": "#012456",
-        "prop": 0.004774452650582079
+        "prop": 0.00476621355449016
     },
     "Makefile": {
         "size": 1930,
         "occurrences": 2,
         "color": "#427819",
-        "prop": 0.010917883430833428
+        "prop": 0.01089904284379859
     },
     "Perl": {
         "size": 396,
         "occurrences": 1,
         "color": "#0298c3",
-        "prop": 0.0022401460303678945
+        "prop": 0.0022362802933389853
     },
     "Astro": {
         "size": 33753,
         "occurrences": 1,
         "color": "#ff5a03",
-        "prop": 0.1909385074823423
+        "prop": 0.1906090119724009
     },
     "Kotlin": {
         "size": 534945,
         "occurrences": 6,
         "color": "#A97BFF",
-        "prop": 3.0261487833715996
+        "prop": 3.0209266705056144
     },
     "Java": {
         "size": 2363613,
         "occurrences": 18,
         "color": "#b07219",
-        "prop": 13.37080373554533
+        "prop": 13.347730234797572
     },
     "Solidity": {
         "size": 1638,
         "occurrences": 1,
         "color": "#AA6746",
-        "prop": 0.00926605858015811
+        "prop": 0.009250068486083982
     },
     "CMake": {
         "size": 132,
         "occurrences": 1,
         "color": "#DA3434",
-        "prop": 0.000746715343455965
+        "prop": 0.0007454267644463284
     },
     "Go": {
         "size": 20622,
         "occurrences": 2,
         "color": "#00ADD8",
-        "prop": 0.11665730161173415
+        "prop": 0.11645599042736503
     }
 }
