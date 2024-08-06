@@ -1,15 +1,27 @@
 {
-    "TypeScript": {
-        "size": 7976111,
-        "occurrences": 47,
-        "color": "#3178c6",
-        "prop": 43.73924185089656
-    },
     "JavaScript": {
         "size": 1977121,
         "occurrences": 69,
         "color": "#f1e05a",
         "prop": 10.842097557003212
+    },
+    "Shell": {
+        "size": 1088589,
+        "occurrences": 14,
+        "color": "#89e051",
+        "prop": 5.969583114781832
+    },
+    "Python": {
+        "size": 825921,
+        "occurrences": 14,
+        "color": "#3572A5",
+        "prop": 4.52916946225226
+    },
+    "TypeScript": {
+        "size": 7976111,
+        "occurrences": 47,
+        "color": "#3178c6",
+        "prop": 43.73924185089656
     },
     "PLpgSQL": {
         "size": 10295,
@@ -23,23 +35,11 @@
         "color": "#563d7c",
         "prop": 11.268373749252492
     },
-    "Shell": {
-        "size": 1088589,
-        "occurrences": 14,
-        "color": "#89e051",
-        "prop": 5.969583114781832
-    },
     "Dockerfile": {
         "size": 18538,
         "occurrences": 14,
         "color": "#384d54",
         "prop": 0.10165832263767648
-    },
-    "Python": {
-        "size": 825921,
-        "occurrences": 14,
-        "color": "#3572A5",
-        "prop": 4.52916946225226
     },
     "HTML": {
         "size": 168687,
