@@ -1,10 +1,4 @@
 {
-    "JavaScript": {
-        "size": 1977121,
-        "occurrences": 69,
-        "color": "#f1e05a",
-        "prop": 10.817455799281452
-    },
     "Shell": {
         "size": 1088589,
         "occurrences": 14,
@@ -64,6 +58,12 @@
         "occurrences": 1,
         "color": "#012456",
         "prop": 0.0046177915740076335
+    },
+    "JavaScript": {
+        "size": 1977121,
+        "occurrences": 69,
+        "color": "#f1e05a",
+        "prop": 10.817455799281452
     },
     "Vue": {
         "size": 327760,
