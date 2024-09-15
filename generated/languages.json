@@ -1,4 +1,16 @@
 {
+    "JavaScript": {
+        "size": 1968230,
+        "occurrences": 67,
+        "color": "#f1e05a",
+        "prop": 10.294722609783813
+    },
+    "Shell": {
+        "size": 1088589,
+        "occurrences": 14,
+        "color": "#89e051",
+        "prop": 5.69380702004438
+    },
     "Python": {
         "size": 908240,
         "occurrences": 14,
@@ -10,12 +22,6 @@
         "occurrences": 45,
         "color": "#3178c6",
         "prop": 40.83634846806747
-    },
-    "JavaScript": {
-        "size": 1968230,
-        "occurrences": 67,
-        "color": "#f1e05a",
-        "prop": 10.294722609783813
     },
     "CSS": {
         "size": 2053643,
@@ -34,12 +40,6 @@
         "occurrences": 3,
         "color": "#336790",
         "prop": 0.05941264695921428
-    },
-    "Shell": {
-        "size": 1088589,
-        "occurrences": 14,
-        "color": "#89e051",
-        "prop": 5.69380702004438
     },
     "Dockerfile": {
         "size": 17736,
