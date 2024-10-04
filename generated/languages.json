@@ -1,4 +1,28 @@
 {
+    "Vue": {
+        "size": 327760,
+        "occurrences": 5,
+        "color": "#41b883",
+        "prop": 1.6709194155574956
+    },
+    "JavaScript": {
+        "size": 1973061,
+        "occurrences": 68,
+        "color": "#f1e05a",
+        "prop": 10.058658570232144
+    },
+    "CSS": {
+        "size": 2055248,
+        "occurrences": 47,
+        "color": "#563d7c",
+        "prop": 10.477647629319355
+    },
+    "Python": {
+        "size": 908026,
+        "occurrences": 14,
+        "color": "#3572A5",
+        "prop": 4.629113599069473
+    },
     "TypeScript": {
         "size": 8293841,
         "occurrences": 46,
@@ -10,12 +34,6 @@
         "occurrences": 17,
         "color": "#e34c26",
         "prop": 5.778472260882031
-    },
-    "JavaScript": {
-        "size": 1973061,
-        "occurrences": 68,
-        "color": "#f1e05a",
-        "prop": 10.058658570232144
     },
     "PLpgSQL": {
         "size": 11359,
@@ -29,23 +47,11 @@
         "color": "#384d54",
         "prop": 0.11126887711727451
     },
-    "CSS": {
-        "size": 2055248,
-        "occurrences": 47,
-        "color": "#563d7c",
-        "prop": 10.477647629319355
-    },
     "Shell": {
         "size": 1088589,
         "occurrences": 14,
         "color": "#89e051",
         "prop": 5.549623186668045
-    },
-    "Python": {
-        "size": 908026,
-        "occurrences": 14,
-        "color": "#3572A5",
-        "prop": 4.629113599069473
     },
     "C": {
         "size": 396654,
@@ -88,12 +94,6 @@
         "occurrences": 1,
         "color": "#012456",
         "prop": 0.004302709259002093
-    },
-    "Vue": {
-        "size": 327760,
-        "occurrences": 5,
-        "color": "#41b883",
-        "prop": 1.6709194155574956
     },
     "Procfile": {
         "size": 88,
