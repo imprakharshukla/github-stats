@@ -1,4 +1,22 @@
 {
+    "Vue": {
+        "size": 327760,
+        "occurrences": 5,
+        "color": "#41b883",
+        "prop": 1.6676788613054543
+    },
+    "JavaScript": {
+        "size": 1972993,
+        "occurrences": 68,
+        "color": "#f1e05a",
+        "prop": 10.038804978043789
+    },
+    "CSS": {
+        "size": 2055851,
+        "occurrences": 47,
+        "color": "#563d7c",
+        "prop": 10.460395578147667
+    },
     "Python": {
         "size": 908026,
         "occurrences": 14,
@@ -17,12 +35,6 @@
         "color": "#e34c26",
         "prop": 5.76726558467673
     },
-    "JavaScript": {
-        "size": 1972993,
-        "occurrences": 68,
-        "color": "#f1e05a",
-        "prop": 10.038804978043789
-    },
     "PLpgSQL": {
         "size": 11359,
         "occurrences": 3,
@@ -35,23 +47,11 @@
         "color": "#384d54",
         "prop": 0.11105308404580438
     },
-    "CSS": {
-        "size": 2055851,
-        "occurrences": 47,
-        "color": "#563d7c",
-        "prop": 10.460395578147667
-    },
     "Shell": {
         "size": 1088589,
         "occurrences": 14,
         "color": "#89e051",
         "prop": 5.538860336678189
-    },
-    "Vue": {
-        "size": 327760,
-        "occurrences": 5,
-        "color": "#41b883",
-        "prop": 1.6676788613054543
     },
     "C": {
         "size": 396654,
