@@ -1,4 +1,10 @@
 {
+    "Python": {
+        "size": 908026,
+        "occurrences": 14,
+        "color": "#3572A5",
+        "prop": 4.6105169175738325
+    },
     "Vue": {
         "size": 327760,
         "occurrences": 5,
@@ -46,12 +52,6 @@
         "occurrences": 14,
         "color": "#89e051",
         "prop": 5.527328513483954
-    },
-    "Python": {
-        "size": 908026,
-        "occurrences": 14,
-        "color": "#3572A5",
-        "prop": 4.6105169175738325
     },
     "C": {
         "size": 405643,
