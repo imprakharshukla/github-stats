@@ -1,51 +1,15 @@
 {
-    "TypeScript": {
-        "size": 8601694,
-        "occurrences": 46,
-        "color": "#3178c6",
-        "prop": 43.07375257940935
-    },
-    "HTML": {
-        "size": 1158977,
-        "occurrences": 18,
-        "color": "#e34c26",
-        "prop": 5.803681059013041
-    },
     "JavaScript": {
         "size": 1975520,
         "occurrences": 68,
         "color": "#f1e05a",
         "prop": 9.892593214275557
     },
-    "PLpgSQL": {
-        "size": 11359,
-        "occurrences": 3,
-        "color": "#336790",
-        "prop": 0.05688120916060381
-    },
-    "CSS": {
-        "size": 2057266,
-        "occurrences": 47,
-        "color": "#563d7c",
-        "prop": 10.3019436257592
-    },
-    "Dockerfile": {
-        "size": 21826,
-        "occurrences": 14,
-        "color": "#384d54",
-        "prop": 0.10929564848484363
-    },
     "Shell": {
         "size": 1088589,
         "occurrences": 14,
         "color": "#89e051",
         "prop": 5.451206849100497
-    },
-    "Python": {
-        "size": 915349,
-        "occurrences": 15,
-        "color": "#3572A5",
-        "prop": 4.583692043661373
     },
     "C": {
         "size": 405643,
@@ -65,6 +29,12 @@
         "color": "#f34b7d",
         "prop": 0.5229375641722595
     },
+    "Python": {
+        "size": 915349,
+        "occurrences": 15,
+        "color": "#3572A5",
+        "prop": 4.583692043661373
+    },
     "Vim Script": {
         "size": 5161,
         "occurrences": 1,
@@ -83,11 +53,41 @@
         "color": "#701516",
         "prop": 0.007110777093763307
     },
+    "Dockerfile": {
+        "size": 21826,
+        "occurrences": 14,
+        "color": "#384d54",
+        "prop": 0.10929564848484363
+    },
     "PowerShell": {
         "size": 844,
         "occurrences": 1,
         "color": "#012456",
         "prop": 0.004226405540236782
+    },
+    "TypeScript": {
+        "size": 8601694,
+        "occurrences": 46,
+        "color": "#3178c6",
+        "prop": 43.07375257940935
+    },
+    "HTML": {
+        "size": 1158977,
+        "occurrences": 18,
+        "color": "#e34c26",
+        "prop": 5.803681059013041
+    },
+    "PLpgSQL": {
+        "size": 11359,
+        "occurrences": 3,
+        "color": "#336790",
+        "prop": 0.05688120916060381
+    },
+    "CSS": {
+        "size": 2057266,
+        "occurrences": 47,
+        "color": "#563d7c",
+        "prop": 10.3019436257592
     },
     "MDX": {
         "size": 129374,
