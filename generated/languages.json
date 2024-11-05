@@ -1,45 +1,9 @@
 {
-    "TypeScript": {
-        "size": 8698726,
-        "occurrences": 46,
-        "color": "#3178c6",
-        "prop": 45.59522565892261
-    },
-    "JavaScript": {
-        "size": 1973733,
-        "occurrences": 68,
-        "color": "#f1e05a",
-        "prop": 10.345515139281579
-    },
-    "CSS": {
-        "size": 2057441,
-        "occurrences": 47,
-        "color": "#563d7c",
-        "prop": 10.78427883289109
-    },
-    "Dockerfile": {
-        "size": 21817,
-        "occurrences": 14,
-        "color": "#384d54",
-        "prop": 0.1143559457098332
-    },
     "Shell": {
         "size": 1088589,
         "occurrences": 14,
         "color": "#89e051",
         "prop": 5.705946032191484
-    },
-    "Python": {
-        "size": 915349,
-        "occurrences": 15,
-        "color": "#3572A5",
-        "prop": 4.797891577648169
-    },
-    "Vue": {
-        "size": 327760,
-        "occurrences": 5,
-        "color": "#41b883",
-        "prop": 1.7179861926871216
     },
     "C": {
         "size": 405643,
@@ -59,6 +23,12 @@
         "color": "#f34b7d",
         "prop": 0.5473748478036472
     },
+    "Python": {
+        "size": 915349,
+        "occurrences": 15,
+        "color": "#3572A5",
+        "prop": 4.797891577648169
+    },
     "Vim Script": {
         "size": 5161,
         "occurrences": 1,
@@ -77,11 +47,41 @@
         "color": "#701516",
         "prop": 0.007443069299535369
     },
+    "Dockerfile": {
+        "size": 21817,
+        "occurrences": 14,
+        "color": "#384d54",
+        "prop": 0.1143559457098332
+    },
     "PowerShell": {
         "size": 844,
         "occurrences": 1,
         "color": "#012456",
         "prop": 0.004423908794935106
+    },
+    "TypeScript": {
+        "size": 8698726,
+        "occurrences": 46,
+        "color": "#3178c6",
+        "prop": 45.59522565892261
+    },
+    "JavaScript": {
+        "size": 1973733,
+        "occurrences": 68,
+        "color": "#f1e05a",
+        "prop": 10.345515139281579
+    },
+    "CSS": {
+        "size": 2057441,
+        "occurrences": 47,
+        "color": "#563d7c",
+        "prop": 10.78427883289109
+    },
+    "Vue": {
+        "size": 327760,
+        "occurrences": 5,
+        "color": "#41b883",
+        "prop": 1.7179861926871216
     },
     "HTML": {
         "size": 179738,
