@@ -1,4 +1,10 @@
 {
+    "Python": {
+        "size": 1024192,
+        "occurrences": 16,
+        "color": "#3572A5",
+        "prop": 5.069431509945583
+    },
     "TypeScript": {
         "size": 9597953,
         "occurrences": 46,
@@ -34,12 +40,6 @@
         "occurrences": 5,
         "color": "#fcb32c",
         "prop": 0.640737194747133
-    },
-    "Python": {
-        "size": 1024192,
-        "occurrences": 16,
-        "color": "#3572A5",
-        "prop": 5.069431509945583
     },
     "Astro": {
         "size": 37057,
