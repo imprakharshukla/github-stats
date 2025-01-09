@@ -1,33 +1,15 @@
 {
-    "Python": {
-        "size": 1033963,
-        "occurrences": 16,
-        "color": "#3572A5",
-        "prop": 4.558830104134637
-    },
-    "TypeScript": {
-        "size": 10587873,
-        "occurrences": 49,
-        "color": "#3178c6",
-        "prop": 46.68282537301074
-    },
-    "HTML": {
-        "size": 631336,
-        "occurrences": 18,
-        "color": "#e34c26",
-        "prop": 2.783613690841882
+    "Vue": {
+        "size": 327760,
+        "occurrences": 5,
+        "color": "#41b883",
+        "prop": 1.4451214936425854
     },
     "JavaScript": {
         "size": 1976927,
         "occurrences": 71,
         "color": "#f1e05a",
         "prop": 8.716437939536108
-    },
-    "Dockerfile": {
-        "size": 22597,
-        "occurrences": 14,
-        "color": "#384d54",
-        "prop": 0.09963207954552569
     },
     "CSS": {
         "size": 2062333,
@@ -40,30 +22,6 @@
         "occurrences": 14,
         "color": "#89e051",
         "prop": 4.801841198360914
-    },
-    "MDX": {
-        "size": 129450,
-        "occurrences": 5,
-        "color": "#fcb32c",
-        "prop": 0.5707559719063725
-    },
-    "PLpgSQL": {
-        "size": 3650,
-        "occurrences": 2,
-        "color": "#336790",
-        "prop": 0.016093157956417612
-    },
-    "Procfile": {
-        "size": 151,
-        "occurrences": 4,
-        "color": "#3B2F63",
-        "prop": 0.0006657717401148108
-    },
-    "Vue": {
-        "size": 327760,
-        "occurrences": 5,
-        "color": "#41b883",
-        "prop": 1.4451214936425854
     },
     "C": {
         "size": 405643,
@@ -83,6 +41,12 @@
         "color": "#f34b7d",
         "prop": 0.46043627184403696
     },
+    "Python": {
+        "size": 1033963,
+        "occurrences": 16,
+        "color": "#3572A5",
+        "prop": 4.558830104134637
+    },
     "Vim Script": {
         "size": 5161,
         "occurrences": 1,
@@ -101,11 +65,47 @@
         "color": "#701516",
         "prop": 0.0062608998077021945
     },
+    "Dockerfile": {
+        "size": 22597,
+        "occurrences": 14,
+        "color": "#384d54",
+        "prop": 0.09963207954552569
+    },
     "PowerShell": {
         "size": 844,
         "occurrences": 1,
         "color": "#012456",
         "prop": 0.0037212672096483463
+    },
+    "TypeScript": {
+        "size": 10587873,
+        "occurrences": 49,
+        "color": "#3178c6",
+        "prop": 46.68282537301074
+    },
+    "HTML": {
+        "size": 631336,
+        "occurrences": 18,
+        "color": "#e34c26",
+        "prop": 2.783613690841882
+    },
+    "MDX": {
+        "size": 129450,
+        "occurrences": 5,
+        "color": "#fcb32c",
+        "prop": 0.5707559719063725
+    },
+    "PLpgSQL": {
+        "size": 3650,
+        "occurrences": 2,
+        "color": "#336790",
+        "prop": 0.016093157956417612
+    },
+    "Procfile": {
+        "size": 151,
+        "occurrences": 4,
+        "color": "#3B2F63",
+        "prop": 0.0006657717401148108
     },
     "TeX": {
         "size": 598948,
