@@ -1,10 +1,4 @@
 {
-    "Python": {
-        "size": 1033963,
-        "occurrences": 16,
-        "color": "#3572A5",
-        "prop": 4.556924189988758
-    },
     "Vue": {
         "size": 327760,
         "occurrences": 5,
@@ -23,35 +17,23 @@
         "color": "#663399",
         "prop": 9.08919868071883
     },
+    "MDX": {
+        "size": 129450,
+        "occurrences": 5,
+        "color": "#fcb32c",
+        "prop": 0.5705173554508669
+    },
     "TypeScript": {
         "size": 10594034,
         "occurrences": 49,
         "color": "#3178c6",
         "prop": 46.69046165497543
     },
-    "HTML": {
-        "size": 631336,
-        "occurrences": 18,
-        "color": "#e34c26",
-        "prop": 2.7824499429967444
-    },
     "Shell": {
         "size": 1092109,
         "occurrences": 14,
         "color": "#89e051",
         "prop": 4.813187628768565
-    },
-    "Dockerfile": {
-        "size": 22597,
-        "occurrences": 14,
-        "color": "#384d54",
-        "prop": 0.09959042627364419
-    },
-    "MDX": {
-        "size": 129450,
-        "occurrences": 5,
-        "color": "#fcb32c",
-        "prop": 0.5705173554508669
     },
     "C": {
         "size": 405643,
@@ -71,6 +53,12 @@
         "color": "#f34b7d",
         "prop": 0.4602437768434035
     },
+    "Python": {
+        "size": 1033963,
+        "occurrences": 16,
+        "color": "#3572A5",
+        "prop": 4.556924189988758
+    },
     "Vim Script": {
         "size": 5161,
         "occurrences": 1,
@@ -89,11 +77,23 @@
         "color": "#701516",
         "prop": 0.0062582823077653995
     },
+    "Dockerfile": {
+        "size": 22597,
+        "occurrences": 14,
+        "color": "#384d54",
+        "prop": 0.09959042627364419
+    },
     "PowerShell": {
         "size": 844,
         "occurrences": 1,
         "color": "#012456",
         "prop": 0.003719711456164787
+    },
+    "HTML": {
+        "size": 631336,
+        "occurrences": 18,
+        "color": "#e34c26",
+        "prop": 2.7824499429967444
     },
     "PLpgSQL": {
         "size": 3650,
