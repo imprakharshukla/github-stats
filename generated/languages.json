@@ -1,9 +1,51 @@
 {
+    "Vue": {
+        "size": 327760,
+        "occurrences": 5,
+        "color": "#41b883",
+        "prop": 1.4413478167621945
+    },
+    "JavaScript": {
+        "size": 1977222,
+        "occurrences": 71,
+        "color": "#f1e05a",
+        "prop": 8.694973800812116
+    },
+    "CSS": {
+        "size": 2062294,
+        "occurrences": 50,
+        "color": "#663399",
+        "prop": 9.069083946856765
+    },
+    "HTML": {
+        "size": 631336,
+        "occurrences": 18,
+        "color": "#e34c26",
+        "prop": 2.7763447804594117
+    },
     "Shell": {
         "size": 1099487,
         "occurrences": 15,
         "color": "#89e051",
         "prop": 4.835071964267803
+    },
+    "Python": {
+        "size": 1033963,
+        "occurrences": 16,
+        "color": "#3572A5",
+        "prop": 4.546925532898733
+    },
+    "Makefile": {
+        "size": 1930,
+        "occurrences": 2,
+        "color": "#427819",
+        "prop": 0.008487311710858663
+    },
+    "Perl": {
+        "size": 396,
+        "occurrences": 1,
+        "color": "#0298c3",
+        "prop": 0.0017414380505181505
     },
     "C": {
         "size": 405643,
@@ -22,12 +64,6 @@
         "occurrences": 1,
         "color": "#f34b7d",
         "prop": 0.4592339246908079
-    },
-    "Python": {
-        "size": 1033963,
-        "occurrences": 16,
-        "color": "#3572A5",
-        "prop": 4.546925532898733
     },
     "Vim Script": {
         "size": 5161,
@@ -65,29 +101,11 @@
         "color": "#3178c6",
         "prop": 46.775157964042556
     },
-    "CSS": {
-        "size": 2062294,
-        "occurrences": 50,
-        "color": "#663399",
-        "prop": 9.069083946856765
-    },
-    "JavaScript": {
-        "size": 1977222,
-        "occurrences": 71,
-        "color": "#f1e05a",
-        "prop": 8.694973800812116
-    },
     "PLpgSQL": {
         "size": 3650,
         "occurrences": 2,
         "color": "#336790",
         "prop": 0.01605113354644255
-    },
-    "HTML": {
-        "size": 631336,
-        "occurrences": 18,
-        "color": "#e34c26",
-        "prop": 2.7763447804594117
     },
     "Procfile": {
         "size": 151,
@@ -100,12 +118,6 @@
         "occurrences": 5,
         "color": "#fcb32c",
         "prop": 0.5692655445443802
-    },
-    "Vue": {
-        "size": 327760,
-        "occurrences": 5,
-        "color": "#41b883",
-        "prop": 1.4413478167621945
     },
     "TeX": {
         "size": 598948,
@@ -136,18 +148,6 @@
         "occurrences": 1,
         "color": "#ff5a03",
         "prop": 0.16296078241932094
-    },
-    "Makefile": {
-        "size": 1930,
-        "occurrences": 2,
-        "color": "#427819",
-        "prop": 0.008487311710858663
-    },
-    "Perl": {
-        "size": 396,
-        "occurrences": 1,
-        "color": "#0298c3",
-        "prop": 0.0017414380505181505
     },
     "Kotlin": {
         "size": 534945,
