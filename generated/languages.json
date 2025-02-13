@@ -1,21 +1,15 @@
 {
-    "JavaScript": {
-        "size": 1977222,
-        "occurrences": 71,
-        "color": "#f1e05a",
-        "prop": 8.695716804606796
-    },
-    "Shell": {
-        "size": 1099487,
-        "occurrences": 15,
-        "color": "#89e051",
-        "prop": 4.835485131334121
-    },
     "Vue": {
         "size": 327760,
         "occurrences": 5,
         "color": "#41b883",
         "prop": 1.441470982963938
+    },
+    "JavaScript": {
+        "size": 1977222,
+        "occurrences": 71,
+        "color": "#f1e05a",
+        "prop": 8.695716804606796
     },
     "CSS": {
         "size": 2062294,
@@ -28,6 +22,12 @@
         "occurrences": 16,
         "color": "#3572A5",
         "prop": 4.54731407724659
+    },
+    "Shell": {
+        "size": 1099487,
+        "occurrences": 15,
+        "color": "#89e051",
+        "prop": 4.835485131334121
     },
     "C": {
         "size": 405643,
