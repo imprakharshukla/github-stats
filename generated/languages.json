@@ -1,4 +1,10 @@
 {
+    "Python": {
+        "size": 1033963,
+        "occurrences": 16,
+        "color": "#3572A5",
+        "prop": 4.512051711184842
+    },
     "JavaScript": {
         "size": 1977750,
         "occurrences": 72,
@@ -40,12 +46,6 @@
         "occurrences": 1,
         "color": "#f34b7d",
         "prop": 0.45571171129655696
-    },
-    "Python": {
-        "size": 1033963,
-        "occurrences": 16,
-        "color": "#3572A5",
-        "prop": 4.512051711184842
     },
     "Vim Script": {
         "size": 5161,
