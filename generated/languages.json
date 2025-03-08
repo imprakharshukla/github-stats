@@ -1,9 +1,9 @@
 {
-    "Python": {
-        "size": 1033963,
-        "occurrences": 16,
-        "color": "#3572A5",
-        "prop": 4.238676354206145
+    "MDX": {
+        "size": 129450,
+        "occurrences": 5,
+        "color": "#fcb32c",
+        "prop": 0.5306733935856366
     },
     "TypeScript": {
         "size": 12281589,
@@ -11,23 +11,29 @@
         "color": "#3178c6",
         "prop": 50.3477212302358
     },
-    "CSS": {
-        "size": 2067764,
-        "occurrences": 52,
-        "color": "#663399",
-        "prop": 8.476688598024024
-    },
     "JavaScript": {
         "size": 1980345,
         "occurrences": 73,
         "color": "#f1e05a",
         "prop": 8.118319054618366
     },
+    "CSS": {
+        "size": 2067764,
+        "occurrences": 52,
+        "color": "#663399",
+        "prop": 8.476688598024024
+    },
     "Vue": {
         "size": 327760,
         "occurrences": 5,
         "color": "#41b883",
         "prop": 1.3436346966522072
+    },
+    "Python": {
+        "size": 1033963,
+        "occurrences": 16,
+        "color": "#3572A5",
+        "prop": 4.238676354206145
     },
     "PLpgSQL": {
         "size": 3650,
@@ -100,12 +106,6 @@
         "occurrences": 1,
         "color": "#012456",
         "prop": 0.003459933133922574
-    },
-    "MDX": {
-        "size": 129450,
-        "occurrences": 5,
-        "color": "#fcb32c",
-        "prop": 0.5306733935856366
     },
     "Makefile": {
         "size": 1930,
