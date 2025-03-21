@@ -1,4 +1,10 @@
 {
+    "Python": {
+        "size": 22964739,
+        "occurrences": 16,
+        "color": "#3572A5",
+        "prop": 48.46717058464123
+    },
     "TypeScript": {
         "size": 13278235,
         "occurrences": 51,
@@ -16,12 +22,6 @@
         "occurrences": 73,
         "color": "#f1e05a",
         "prop": 4.206896915604116
-    },
-    "Python": {
-        "size": 22964739,
-        "occurrences": 16,
-        "color": "#3572A5",
-        "prop": 48.46717058464123
     },
     "Vue": {
         "size": 327760,
