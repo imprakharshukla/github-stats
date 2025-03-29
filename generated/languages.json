@@ -1,4 +1,10 @@
 {
+    "Python": {
+        "size": 22971456,
+        "occurrences": 16,
+        "color": "#3572A5",
+        "prop": 47.988408306377686
+    },
     "TeX": {
         "size": 591911,
         "occurrences": 1,
@@ -22,12 +28,6 @@
         "occurrences": 52,
         "color": "#3178c6",
         "prop": 27.964611993291662
-    },
-    "Python": {
-        "size": 22971456,
-        "occurrences": 16,
-        "color": "#3572A5",
-        "prop": 47.988408306377686
     },
     "BibTeX Style": {
         "size": 28285,
