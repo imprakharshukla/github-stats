@@ -5,6 +5,18 @@
         "color": "#3572A5",
         "prop": 39.75095609578291
     },
+    "JavaScript": {
+        "size": 2003908,
+        "occurrences": 74,
+        "color": "#f1e05a",
+        "prop": 3.4643883084043243
+    },
+    "Shell": {
+        "size": 1130796,
+        "occurrences": 17,
+        "color": "#89e051",
+        "prop": 1.9549382714128476
+    },
     "TypeScript": {
         "size": 14375806,
         "occurrences": 52,
@@ -17,23 +29,11 @@
         "color": "#336790",
         "prop": 0.13446385455373777
     },
-    "JavaScript": {
-        "size": 2003908,
-        "occurrences": 74,
-        "color": "#f1e05a",
-        "prop": 3.4643883084043243
-    },
     "CSS": {
         "size": 2080184,
         "occurrences": 53,
         "color": "#663399",
         "prop": 3.5962554812544996
-    },
-    "Shell": {
-        "size": 1130796,
-        "occurrences": 17,
-        "color": "#89e051",
-        "prop": 1.9549382714128476
     },
     "C": {
         "size": 412726,
