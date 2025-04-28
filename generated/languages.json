@@ -1,39 +1,9 @@
 {
-    "Python": {
-        "size": 22993167,
-        "occurrences": 16,
-        "color": "#3572A5",
-        "prop": 39.75095609578291
-    },
-    "JavaScript": {
-        "size": 2003908,
-        "occurrences": 74,
-        "color": "#f1e05a",
-        "prop": 3.4643883084043243
-    },
     "Shell": {
         "size": 1130796,
         "occurrences": 17,
         "color": "#89e051",
         "prop": 1.9549382714128476
-    },
-    "TypeScript": {
-        "size": 14375806,
-        "occurrences": 52,
-        "color": "#3178c6",
-        "prop": 24.853124110632194
-    },
-    "PLpgSQL": {
-        "size": 77778,
-        "occurrences": 3,
-        "color": "#336790",
-        "prop": 0.13446385455373777
-    },
-    "CSS": {
-        "size": 2080184,
-        "occurrences": 53,
-        "color": "#663399",
-        "prop": 3.5962554812544996
     },
     "C": {
         "size": 412726,
@@ -52,6 +22,12 @@
         "occurrences": 1,
         "color": "#f34b7d",
         "prop": 0.18053853103952638
+    },
+    "Python": {
+        "size": 22993167,
+        "occurrences": 16,
+        "color": "#3572A5",
+        "prop": 39.75095609578291
     },
     "Vim Script": {
         "size": 5161,
@@ -83,6 +59,36 @@
         "color": "#012456",
         "prop": 0.04588450672054764
     },
+    "JavaScript": {
+        "size": 2003908,
+        "occurrences": 74,
+        "color": "#f1e05a",
+        "prop": 3.4643883084043243
+    },
+    "CSS": {
+        "size": 2080184,
+        "occurrences": 53,
+        "color": "#663399",
+        "prop": 3.5962554812544996
+    },
+    "HTML": {
+        "size": 630876,
+        "occurrences": 17,
+        "color": "#e34c26",
+        "prop": 1.0906685528741273
+    },
+    "TypeScript": {
+        "size": 14375806,
+        "occurrences": 52,
+        "color": "#3178c6",
+        "prop": 24.853124110632194
+    },
+    "PLpgSQL": {
+        "size": 77778,
+        "occurrences": 3,
+        "color": "#336790",
+        "prop": 0.13446385455373777
+    },
     "Vue": {
         "size": 327760,
         "occurrences": 5,
@@ -94,12 +100,6 @@
         "occurrences": 5,
         "color": "#fcb32c",
         "prop": 0.2237952373676535
-    },
-    "HTML": {
-        "size": 630876,
-        "occurrences": 17,
-        "color": "#e34c26",
-        "prop": 1.0906685528741273
     },
     "Jupyter Notebook": {
         "size": 8878702,
