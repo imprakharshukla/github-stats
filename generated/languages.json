@@ -1,16 +1,4 @@
 {
-    "JavaScript": {
-        "size": 2004349,
-        "occurrences": 74,
-        "color": "#f1e05a",
-        "prop": 3.4611157733831526
-    },
-    "Shell": {
-        "size": 1130796,
-        "occurrences": 17,
-        "color": "#89e051",
-        "prop": 1.952661872796891
-    },
     "TypeScript": {
         "size": 14399353,
         "occurrences": 52,
@@ -29,11 +17,23 @@
         "color": "#663399",
         "prop": 3.6009384621476244
     },
+    "JavaScript": {
+        "size": 2004349,
+        "occurrences": 74,
+        "color": "#f1e05a",
+        "prop": 3.4611157733831526
+    },
     "Python": {
         "size": 22993167,
         "occurrences": 16,
         "color": "#3572A5",
         "prop": 39.70466868980052
+    },
+    "Shell": {
+        "size": 1130796,
+        "occurrences": 17,
+        "color": "#89e051",
+        "prop": 1.952661872796891
     },
     "C": {
         "size": 412726,
