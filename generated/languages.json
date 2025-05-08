@@ -1,40 +1,4 @@
 {
-    "Vue": {
-        "size": 327760,
-        "occurrences": 5,
-        "color": "#41b883",
-        "prop": 0.5636164240811204
-    },
-    "JavaScript": {
-        "size": 2010082,
-        "occurrences": 75,
-        "color": "#f1e05a",
-        "prop": 3.456539019251363
-    },
-    "CSS": {
-        "size": 2087963,
-        "occurrences": 54,
-        "color": "#663399",
-        "prop": 3.5904632648086667
-    },
-    "TypeScript": {
-        "size": 14633516,
-        "occurrences": 53,
-        "color": "#3178c6",
-        "prop": 25.163808761453083
-    },
-    "PLpgSQL": {
-        "size": 116086,
-        "occurrences": 3,
-        "color": "#336790",
-        "prop": 0.1996216017997344
-    },
-    "Python": {
-        "size": 22993167,
-        "occurrences": 16,
-        "color": "#3572A5",
-        "prop": 39.53907298889439
-    },
     "Shell": {
         "size": 1130796,
         "occurrences": 17,
@@ -58,6 +22,12 @@
         "occurrences": 1,
         "color": "#f34b7d",
         "prop": 0.17957621293131354
+    },
+    "Python": {
+        "size": 22993167,
+        "occurrences": 16,
+        "color": "#3572A5",
+        "prop": 39.53907298889439
     },
     "Vim Script": {
         "size": 5161,
@@ -88,6 +58,36 @@
         "occurrences": 2,
         "color": "#012456",
         "prop": 0.04563993016700335
+    },
+    "Vue": {
+        "size": 327760,
+        "occurrences": 5,
+        "color": "#41b883",
+        "prop": 0.5636164240811204
+    },
+    "JavaScript": {
+        "size": 2010082,
+        "occurrences": 75,
+        "color": "#f1e05a",
+        "prop": 3.456539019251363
+    },
+    "CSS": {
+        "size": 2087963,
+        "occurrences": 54,
+        "color": "#663399",
+        "prop": 3.5904632648086667
+    },
+    "TypeScript": {
+        "size": 14633516,
+        "occurrences": 53,
+        "color": "#3178c6",
+        "prop": 25.163808761453083
+    },
+    "PLpgSQL": {
+        "size": 116086,
+        "occurrences": 3,
+        "color": "#336790",
+        "prop": 0.1996216017997344
     },
     "HTML": {
         "size": 630876,
