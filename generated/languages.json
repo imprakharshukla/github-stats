@@ -1,9 +1,15 @@
 {
-    "Vue": {
-        "size": 327760,
+    "MDX": {
+        "size": 129450,
         "occurrences": 5,
-        "color": "#41b883",
-        "prop": 0.5612665046489687
+        "color": "#fcb32c",
+        "prop": 0.22167424037957342
+    },
+    "TypeScript": {
+        "size": 14870585,
+        "occurrences": 53,
+        "color": "#3178c6",
+        "prop": 25.4648561906132
     },
     "JavaScript": {
         "size": 2013169,
@@ -17,47 +23,11 @@
         "color": "#663399",
         "prop": 3.579238420466322
     },
-    "Python": {
-        "size": 22993166,
-        "occurrences": 16,
-        "color": "#3572A5",
-        "prop": 39.374218671080996
-    },
-    "TypeScript": {
-        "size": 14870585,
-        "occurrences": 53,
-        "color": "#3178c6",
-        "prop": 25.4648561906132
-    },
-    "PLpgSQL": {
-        "size": 116086,
-        "occurrences": 3,
-        "color": "#336790",
-        "prop": 0.1987893075990974
-    },
-    "HTML": {
-        "size": 630876,
-        "occurrences": 17,
-        "color": "#e34c26",
-        "prop": 1.080331850704548
-    },
     "Shell": {
         "size": 1131930,
         "occurrences": 17,
         "color": "#89e051",
         "prop": 1.9383524365612248
-    },
-    "Dockerfile": {
-        "size": 22995,
-        "occurrences": 14,
-        "color": "#384d54",
-        "prop": 0.03937735927020696
-    },
-    "MDX": {
-        "size": 129450,
-        "occurrences": 5,
-        "color": "#fcb32c",
-        "prop": 0.22167424037957342
     },
     "C": {
         "size": 412726,
@@ -77,6 +47,12 @@
         "color": "#f34b7d",
         "prop": 0.17882749516105426
     },
+    "Python": {
+        "size": 22993166,
+        "occurrences": 16,
+        "color": "#3572A5",
+        "prop": 39.374218671080996
+    },
     "Vim Script": {
         "size": 5161,
         "occurrences": 1,
@@ -95,11 +71,35 @@
         "color": "#701516",
         "prop": 0.0024316525402780552
     },
+    "Dockerfile": {
+        "size": 22995,
+        "occurrences": 14,
+        "color": "#384d54",
+        "prop": 0.03937735927020696
+    },
     "PowerShell": {
         "size": 26541,
         "occurrences": 2,
         "color": "#012456",
         "prop": 0.04544964089543652
+    },
+    "Vue": {
+        "size": 327760,
+        "occurrences": 5,
+        "color": "#41b883",
+        "prop": 0.5612665046489687
+    },
+    "PLpgSQL": {
+        "size": 116086,
+        "occurrences": 3,
+        "color": "#336790",
+        "prop": 0.1987893075990974
+    },
+    "HTML": {
+        "size": 630876,
+        "occurrences": 17,
+        "color": "#e34c26",
+        "prop": 1.080331850704548
     },
     "Jupyter Notebook": {
         "size": 8878702,
