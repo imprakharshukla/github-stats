@@ -1,4 +1,10 @@
 {
+    "Python": {
+        "size": 22993166,
+        "occurrences": 16,
+        "color": "#3572A5",
+        "prop": 39.374218671080996
+    },
     "MDX": {
         "size": 129450,
         "occurrences": 5,
@@ -46,12 +52,6 @@
         "occurrences": 1,
         "color": "#f34b7d",
         "prop": 0.17882749516105426
-    },
-    "Python": {
-        "size": 22993166,
-        "occurrences": 16,
-        "color": "#3572A5",
-        "prop": 39.374218671080996
     },
     "Vim Script": {
         "size": 5161,
