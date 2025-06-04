@@ -1,4 +1,22 @@
 {
+    "Vue": {
+        "size": 327760,
+        "occurrences": 5,
+        "color": "#41b883",
+        "prop": 0.5612657838021188
+    },
+    "JavaScript": {
+        "size": 2013169,
+        "occurrences": 75,
+        "color": "#f1e05a",
+        "prop": 3.447409313861141
+    },
+    "CSS": {
+        "size": 2090150,
+        "occurrences": 54,
+        "color": "#663399",
+        "prop": 3.579233823572122
+    },
     "Python": {
         "size": 22993166,
         "occurrences": 16,
@@ -16,18 +34,6 @@
         "occurrences": 3,
         "color": "#336790",
         "prop": 0.1987890522896411
-    },
-    "JavaScript": {
-        "size": 2013169,
-        "occurrences": 75,
-        "color": "#f1e05a",
-        "prop": 3.447409313861141
-    },
-    "CSS": {
-        "size": 2090150,
-        "occurrences": 54,
-        "color": "#663399",
-        "prop": 3.579233823572122
     },
     "MDX": {
         "size": 129450,
@@ -88,12 +94,6 @@
         "occurrences": 2,
         "color": "#012456",
         "prop": 0.0454495825234685
-    },
-    "Vue": {
-        "size": 327760,
-        "occurrences": 5,
-        "color": "#41b883",
-        "prop": 0.5612657838021188
     },
     "HTML": {
         "size": 630876,
