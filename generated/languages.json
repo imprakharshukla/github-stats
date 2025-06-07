@@ -1,9 +1,15 @@
 {
-    "Python": {
-        "size": 22993166,
-        "occurrences": 16,
-        "color": "#3572A5",
-        "prop": 39.374168101910634
+    "JavaScript": {
+        "size": 2013169,
+        "occurrences": 75,
+        "color": "#f1e05a",
+        "prop": 3.447409313861141
+    },
+    "Shell": {
+        "size": 1131930,
+        "occurrences": 17,
+        "color": "#89e051",
+        "prop": 1.9383499470927885
     },
     "Vue": {
         "size": 327760,
@@ -11,17 +17,17 @@
         "color": "#41b883",
         "prop": 0.5612657838021188
     },
-    "JavaScript": {
-        "size": 2013169,
-        "occurrences": 75,
-        "color": "#f1e05a",
-        "prop": 3.447409313861141
-    },
     "CSS": {
         "size": 2090150,
         "occurrences": 54,
         "color": "#663399",
         "prop": 3.579233823572122
+    },
+    "Python": {
+        "size": 22993166,
+        "occurrences": 16,
+        "color": "#3572A5",
+        "prop": 39.374168101910634
     },
     "TypeScript": {
         "size": 14870660,
@@ -40,12 +46,6 @@
         "occurrences": 5,
         "color": "#fcb32c",
         "prop": 0.22167395567849732
-    },
-    "Shell": {
-        "size": 1131930,
-        "occurrences": 17,
-        "color": "#89e051",
-        "prop": 1.9383499470927885
     },
     "C": {
         "size": 412726,
