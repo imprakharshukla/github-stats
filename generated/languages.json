@@ -1,4 +1,10 @@
 {
+    "Python": {
+        "size": 23013065,
+        "occurrences": 16,
+        "color": "#3572A5",
+        "prop": 39.40952258990849
+    },
     "Vue": {
         "size": 327760,
         "occurrences": 5,
@@ -16,12 +22,6 @@
         "occurrences": 54,
         "color": "#663399",
         "prop": 3.5793499753856004
-    },
-    "Python": {
-        "size": 23013065,
-        "occurrences": 16,
-        "color": "#3572A5",
-        "prop": 39.40952258990849
     },
     "Jupyter Notebook": {
         "size": 8878702,
