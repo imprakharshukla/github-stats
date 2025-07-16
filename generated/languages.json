@@ -1,4 +1,28 @@
 {
+    "Vue": {
+        "size": 327760,
+        "occurrences": 5,
+        "color": "#41b883",
+        "prop": 0.54139123109733
+    },
+    "JavaScript": {
+        "size": 2026365,
+        "occurrences": 75,
+        "color": "#f1e05a",
+        "prop": 3.347132786192766
+    },
+    "CSS": {
+        "size": 2093201,
+        "occurrences": 54,
+        "color": "#663399",
+        "prop": 3.457531932890414
+    },
+    "Python": {
+        "size": 23014963,
+        "occurrences": 16,
+        "color": "#3572A5",
+        "prop": 38.01592370096869
+    },
     "TypeScript": {
         "size": 16944954,
         "occurrences": 53,
@@ -10,12 +34,6 @@
         "occurrences": 17,
         "color": "#e34c26",
         "prop": 1.0420757087800805
-    },
-    "JavaScript": {
-        "size": 2026365,
-        "occurrences": 75,
-        "color": "#f1e05a",
-        "prop": 3.347132786192766
     },
     "Shell": {
         "size": 1131930,
@@ -35,23 +53,11 @@
         "color": "#384d54",
         "prop": 0.03798294898426624
     },
-    "CSS": {
-        "size": 2093201,
-        "occurrences": 54,
-        "color": "#663399",
-        "prop": 3.457531932890414
-    },
     "MDX": {
         "size": 129450,
         "occurrences": 5,
         "color": "#fcb32c",
         "prop": 0.21382442905037027
-    },
-    "Python": {
-        "size": 23014963,
-        "occurrences": 16,
-        "color": "#3572A5",
-        "prop": 38.01592370096869
     },
     "Jupyter Notebook": {
         "size": 8878702,
@@ -106,12 +112,6 @@
         "occurrences": 1,
         "color": "#701516",
         "prop": 0.0023455441425378584
-    },
-    "Vue": {
-        "size": 327760,
-        "occurrences": 5,
-        "color": "#41b883",
-        "prop": 0.54139123109733
     },
     "Kotlin": {
         "size": 534945,
