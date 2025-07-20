@@ -1,4 +1,10 @@
 {
+    "Python": {
+        "size": 23014963,
+        "occurrences": 16,
+        "color": "#3572A5",
+        "prop": 38.0138220890805
+    },
     "Vue": {
         "size": 327760,
         "occurrences": 5,
@@ -52,12 +58,6 @@
         "occurrences": 5,
         "color": "#fcb32c",
         "prop": 0.21381260832057258
-    },
-    "Python": {
-        "size": 23014963,
-        "occurrences": 16,
-        "color": "#3572A5",
-        "prop": 38.0138220890805
     },
     "Astro": {
         "size": 37051,
