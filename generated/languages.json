@@ -1,4 +1,10 @@
 {
+    "Shell": {
+        "size": 1131930,
+        "occurrences": 17,
+        "color": "#89e051",
+        "prop": 1.868845985911398
+    },
     "Python": {
         "size": 23057672,
         "occurrences": 16,
@@ -64,12 +70,6 @@
         "occurrences": 17,
         "color": "#e34c26",
         "prop": 1.0415927488518186
-    },
-    "Shell": {
-        "size": 1131930,
-        "occurrences": 17,
-        "color": "#89e051",
-        "prop": 1.868845985911398
     },
     "Go": {
         "size": 343452,
