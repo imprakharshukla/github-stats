@@ -1,15 +1,15 @@
 {
-    "Shell": {
-        "size": 1131930,
-        "occurrences": 17,
-        "color": "#89e051",
-        "prop": 1.868845985911398
-    },
     "Python": {
         "size": 23057672,
         "occurrences": 16,
         "color": "#3572A5",
         "prop": 38.068818532649225
+    },
+    "Shell": {
+        "size": 1131930,
+        "occurrences": 17,
+        "color": "#89e051",
+        "prop": 1.868845985911398
     },
     "Jupyter Notebook": {
         "size": 8878702,
