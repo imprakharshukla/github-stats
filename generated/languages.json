@@ -1,4 +1,10 @@
 {
+    "Python": {
+        "size": 23057672,
+        "occurrences": 16,
+        "color": "#3572A5",
+        "prop": 38.068818532649225
+    },
     "TypeScript": {
         "size": 16930322,
         "occurrences": 53,
@@ -40,12 +46,6 @@
         "occurrences": 1,
         "color": "#f34b7d",
         "prop": 0.1724150057536609
-    },
-    "Python": {
-        "size": 23057672,
-        "occurrences": 16,
-        "color": "#3572A5",
-        "prop": 38.068818532649225
     },
     "Vim Script": {
         "size": 5161,
