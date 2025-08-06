@@ -1,15 +1,15 @@
 {
-    "Python": {
-        "size": 23057672,
-        "occurrences": 16,
-        "color": "#3572A5",
-        "prop": 38.068818532649225
-    },
-    "Vue": {
-        "size": 327760,
+    "MDX": {
+        "size": 129450,
         "occurrences": 5,
-        "color": "#41b883",
-        "prop": 0.5411403181666002
+        "color": "#fcb32c",
+        "prop": 0.21372533007891875
+    },
+    "TypeScript": {
+        "size": 16930322,
+        "occurrences": 53,
+        "color": "#3178c6",
+        "prop": 27.95240369094152
     },
     "JavaScript": {
         "size": 2026365,
@@ -23,11 +23,17 @@
         "color": "#663399",
         "prop": 3.4559295067325047
     },
-    "TypeScript": {
-        "size": 16930322,
-        "occurrences": 53,
-        "color": "#3178c6",
-        "prop": 27.95240369094152
+    "Python": {
+        "size": 23057672,
+        "occurrences": 16,
+        "color": "#3572A5",
+        "prop": 38.068818532649225
+    },
+    "Vue": {
+        "size": 327760,
+        "occurrences": 5,
+        "color": "#41b883",
+        "prop": 0.5411403181666002
     },
     "PLpgSQL": {
         "size": 141570,
@@ -118,12 +124,6 @@
         "occurrences": 5,
         "color": "#00ADD8",
         "prop": 0.5670482199016207
-    },
-    "MDX": {
-        "size": 129450,
-        "occurrences": 5,
-        "color": "#fcb32c",
-        "prop": 0.21372533007891875
     },
     "Astro": {
         "size": 37051,
