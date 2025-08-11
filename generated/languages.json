@@ -1,4 +1,10 @@
 {
+    "Python": {
+        "size": 23057672,
+        "occurrences": 16,
+        "color": "#3572A5",
+        "prop": 38.76780060537678
+    },
     "TypeScript": {
         "size": 15830583,
         "occurrences": 53,
@@ -22,12 +28,6 @@
         "occurrences": 54,
         "color": "#663399",
         "prop": 3.527807389922461
-    },
-    "Python": {
-        "size": 23057672,
-        "occurrences": 16,
-        "color": "#3572A5",
-        "prop": 38.76780060537678
     },
     "MDX": {
         "size": 129450,
