@@ -1,4 +1,10 @@
 {
+    "Python": {
+        "size": 23064666,
+        "occurrences": 17,
+        "color": "#3572A5",
+        "prop": 38.681249644669045
+    },
     "TypeScript": {
         "size": 15974701,
         "occurrences": 53,
@@ -22,12 +28,6 @@
         "occurrences": 54,
         "color": "#663399",
         "prop": 3.5188640276945993
-    },
-    "Python": {
-        "size": 23064666,
-        "occurrences": 17,
-        "color": "#3572A5",
-        "prop": 38.681249644669045
     },
     "Shell": {
         "size": 1131930,
