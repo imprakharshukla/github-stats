@@ -1,4 +1,10 @@
 {
+    "Python": {
+        "size": 23066323,
+        "occurrences": 17,
+        "color": "#3572A5",
+        "prop": 38.01427738649223
+    },
     "JavaScript": {
         "size": 2036974,
         "occurrences": 75,
@@ -22,12 +28,6 @@
         "occurrences": 18,
         "color": "#89e051",
         "prop": 1.880249880137879
-    },
-    "Python": {
-        "size": 23066323,
-        "occurrences": 17,
-        "color": "#3572A5",
-        "prop": 38.01427738649223
     },
     "Makefile": {
         "size": 3472,
