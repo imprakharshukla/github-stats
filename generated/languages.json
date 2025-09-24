@@ -1,9 +1,9 @@
 {
-    "TypeScript": {
-        "size": 17320988,
-        "occurrences": 54,
-        "color": "#3178c6",
-        "prop": 28.460251667931118
+    "Vue": {
+        "size": 327760,
+        "occurrences": 5,
+        "color": "#41b883",
+        "prop": 0.5385450348837552
     },
     "JavaScript": {
         "size": 2036974,
@@ -16,6 +16,12 @@
         "occurrences": 54,
         "color": "#663399",
         "prop": 3.447705307026453
+    },
+    "TypeScript": {
+        "size": 17320988,
+        "occurrences": 54,
+        "color": "#3178c6",
+        "prop": 28.460251667931118
     },
     "Shell": {
         "size": 1140899,
@@ -100,12 +106,6 @@
         "occurrences": 1,
         "color": "#0298c3",
         "prop": 0.0006506707158102485
-    },
-    "Vue": {
-        "size": 327760,
-        "occurrences": 5,
-        "color": "#41b883",
-        "prop": 0.5385450348837552
     },
     "Jupyter Notebook": {
         "size": 8878702,
