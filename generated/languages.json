@@ -1,4 +1,10 @@
 {
+    "Python": {
+        "size": 23066323,
+        "occurrences": 17,
+        "color": "#3572A5",
+        "prop": 37.45345378327033
+    },
     "Shell": {
         "size": 1146061,
         "occurrences": 18,
@@ -22,12 +28,6 @@
         "occurrences": 1,
         "color": "#f34b7d",
         "prop": 0.16956437855886855
-    },
-    "Python": {
-        "size": 23066323,
-        "occurrences": 17,
-        "color": "#3572A5",
-        "prop": 37.45345378327033
     },
     "Vim Script": {
         "size": 5161,
