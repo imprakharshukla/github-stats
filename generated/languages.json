@@ -1,27 +1,33 @@
 {
-    "Vue": {
-        "size": 326739,
-        "occurrences": 5,
-        "color": "#41b883",
-        "prop": 0.5303938487501195
-    },
     "JavaScript": {
         "size": 2026805,
         "occurrences": 76,
         "color": "#f1e05a",
         "prop": 3.290102817894362
     },
-    "CSS": {
-        "size": 2109038,
-        "occurrences": 54,
-        "color": "#663399",
-        "prop": 3.423591251672603
+    "Shell": {
+        "size": 1146556,
+        "occurrences": 19,
+        "color": "#89e051",
+        "prop": 1.8611988457072526
     },
     "Python": {
         "size": 23066323,
         "occurrences": 17,
         "color": "#3572A5",
         "prop": 37.44345129440747
+    },
+    "Vue": {
+        "size": 326739,
+        "occurrences": 5,
+        "color": "#41b883",
+        "prop": 0.5303938487501195
+    },
+    "CSS": {
+        "size": 2109038,
+        "occurrences": 54,
+        "color": "#663399",
+        "prop": 3.423591251672603
     },
     "MDX": {
         "size": 183098,
@@ -34,12 +40,6 @@
         "occurrences": 56,
         "color": "#3178c6",
         "prop": 29.236775298122218
-    },
-    "Shell": {
-        "size": 1146556,
-        "occurrences": 19,
-        "color": "#89e051",
-        "prop": 1.8611988457072526
     },
     "C": {
         "size": 412726,
