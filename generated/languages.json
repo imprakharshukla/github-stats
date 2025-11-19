@@ -17,6 +17,12 @@
         "color": "#663399",
         "prop": 3.370550773223356
     },
+    "Python": {
+        "size": 23066323,
+        "occurrences": 17,
+        "color": "#3572A5",
+        "prop": 36.66354142407174
+    },
     "MDX": {
         "size": 180751,
         "occurrences": 6,
@@ -40,12 +46,6 @@
         "occurrences": 17,
         "color": "#e34c26",
         "prop": 1.0027670365776409
-    },
-    "Python": {
-        "size": 23066323,
-        "occurrences": 17,
-        "color": "#3572A5",
-        "prop": 36.66354142407174
     },
     "C": {
         "size": 412726,
