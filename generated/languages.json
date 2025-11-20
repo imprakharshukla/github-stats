@@ -1,15 +1,15 @@
 {
-    "Vue": {
-        "size": 326739,
-        "occurrences": 5,
-        "color": "#41b883",
-        "prop": 0.5193462721110675
-    },
     "JavaScript": {
         "size": 2030186,
         "occurrences": 78,
         "color": "#f1e05a",
         "prop": 3.2269472906267076
+    },
+    "HTML": {
+        "size": 630876,
+        "occurrences": 17,
+        "color": "#e34c26",
+        "prop": 1.0027670365776409
     },
     "CSS": {
         "size": 2120532,
@@ -17,11 +17,35 @@
         "color": "#663399",
         "prop": 3.370550773223356
     },
+    "Shell": {
+        "size": 1150288,
+        "occurrences": 19,
+        "color": "#89e051",
+        "prop": 1.8283638765317138
+    },
     "Python": {
         "size": 23066323,
         "occurrences": 17,
         "color": "#3572A5",
         "prop": 36.66354142407174
+    },
+    "Makefile": {
+        "size": 3472,
+        "occurrences": 3,
+        "color": "#427819",
+        "prop": 0.005518686954326317
+    },
+    "Perl": {
+        "size": 396,
+        "occurrences": 1,
+        "color": "#0298c3",
+        "prop": 0.0006294354936386007
+    },
+    "Vue": {
+        "size": 326739,
+        "occurrences": 5,
+        "color": "#41b883",
+        "prop": 0.5193462721110675
     },
     "MDX": {
         "size": 180751,
@@ -34,18 +58,6 @@
         "occurrences": 58,
         "color": "#3178c6",
         "prop": 30.68485792464691
-    },
-    "Shell": {
-        "size": 1150288,
-        "occurrences": 19,
-        "color": "#89e051",
-        "prop": 1.8283638765317138
-    },
-    "HTML": {
-        "size": 630876,
-        "occurrences": 17,
-        "color": "#e34c26",
-        "prop": 1.0027670365776409
     },
     "C": {
         "size": 412726,
@@ -100,18 +112,6 @@
         "occurrences": 5,
         "color": "#00ADD8",
         "prop": 0.5459113110130421
-    },
-    "Makefile": {
-        "size": 3472,
-        "occurrences": 3,
-        "color": "#427819",
-        "prop": 0.005518686954326317
-    },
-    "Perl": {
-        "size": 396,
-        "occurrences": 1,
-        "color": "#0298c3",
-        "prop": 0.0006294354936386007
     },
     "Jupyter Notebook": {
         "size": 8878702,
