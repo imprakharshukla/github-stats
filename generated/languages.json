@@ -1,4 +1,22 @@
 {
+    "Vue": {
+        "size": 326739,
+        "occurrences": 5,
+        "color": "#41b883",
+        "prop": 0.5190102830875072
+    },
+    "JavaScript": {
+        "size": 2030185,
+        "occurrences": 78,
+        "color": "#f1e05a",
+        "prop": 3.224858041341899
+    },
+    "CSS": {
+        "size": 2120532,
+        "occurrences": 56,
+        "color": "#663399",
+        "prop": 3.3683702086868044
+    },
     "Python": {
         "size": 23066358,
         "occurrences": 17,
@@ -58,24 +76,6 @@
         "occurrences": 2,
         "color": "#012456",
         "prop": 0.04215919104675453
-    },
-    "Vue": {
-        "size": 326739,
-        "occurrences": 5,
-        "color": "#41b883",
-        "prop": 0.5190102830875072
-    },
-    "JavaScript": {
-        "size": 2030185,
-        "occurrences": 78,
-        "color": "#f1e05a",
-        "prop": 3.224858041341899
-    },
-    "CSS": {
-        "size": 2120532,
-        "occurrences": 56,
-        "color": "#663399",
-        "prop": 3.3683702086868044
     },
     "TypeScript": {
         "size": 19345594,
