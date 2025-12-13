@@ -1,21 +1,15 @@
 {
-    "Python": {
-        "size": 23066358,
-        "occurrences": 17,
-        "color": "#3572A5",
-        "prop": 36.63987768640348
-    },
-    "Vue": {
-        "size": 326739,
-        "occurrences": 5,
-        "color": "#41b883",
-        "prop": 0.5190102830875072
-    },
     "JavaScript": {
         "size": 2030185,
         "occurrences": 78,
         "color": "#f1e05a",
         "prop": 3.224858041341899
+    },
+    "HTML": {
+        "size": 630876,
+        "occurrences": 17,
+        "color": "#e34c26",
+        "prop": 1.002118300396078
     },
     "CSS": {
         "size": 2120532,
@@ -28,6 +22,30 @@
         "occurrences": 19,
         "color": "#89e051",
         "prop": 1.8271810237289163
+    },
+    "Python": {
+        "size": 23066358,
+        "occurrences": 17,
+        "color": "#3572A5",
+        "prop": 36.63987768640348
+    },
+    "Makefile": {
+        "size": 3472,
+        "occurrences": 3,
+        "color": "#427819",
+        "prop": 0.005515116661555018
+    },
+    "Perl": {
+        "size": 396,
+        "occurrences": 1,
+        "color": "#0298c3",
+        "prop": 0.0006290282828271275
+    },
+    "Vue": {
+        "size": 326739,
+        "occurrences": 5,
+        "color": "#41b883",
+        "prop": 0.5190102830875072
     },
     "C": {
         "size": 412726,
@@ -100,24 +118,6 @@
         "occurrences": 2,
         "color": "#336790",
         "prop": 0.005797861697775292
-    },
-    "HTML": {
-        "size": 630876,
-        "occurrences": 17,
-        "color": "#e34c26",
-        "prop": 1.002118300396078
-    },
-    "Makefile": {
-        "size": 3472,
-        "occurrences": 3,
-        "color": "#427819",
-        "prop": 0.005515116661555018
-    },
-    "Perl": {
-        "size": 396,
-        "occurrences": 1,
-        "color": "#0298c3",
-        "prop": 0.0006290282828271275
     },
     "Go": {
         "size": 343452,
