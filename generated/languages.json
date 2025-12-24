@@ -1,16 +1,4 @@
 {
-    "Python": {
-        "size": 23066358,
-        "occurrences": 17,
-        "color": "#3572A5",
-        "prop": 36.63987768640348
-    },
-    "JavaScript": {
-        "size": 2030185,
-        "occurrences": 78,
-        "color": "#f1e05a",
-        "prop": 3.224858041341899
-    },
     "Shell": {
         "size": 1150288,
         "occurrences": 19,
@@ -34,6 +22,12 @@
         "occurrences": 1,
         "color": "#f34b7d",
         "prop": 0.16588079431150027
+    },
+    "Python": {
+        "size": 23066358,
+        "occurrences": 17,
+        "color": "#3572A5",
+        "prop": 36.63987768640348
     },
     "Vim Script": {
         "size": 5161,
@@ -64,6 +58,12 @@
         "occurrences": 2,
         "color": "#012456",
         "prop": 0.04215919104675453
+    },
+    "JavaScript": {
+        "size": 2030185,
+        "occurrences": 78,
+        "color": "#f1e05a",
+        "prop": 3.224858041341899
     },
     "HTML": {
         "size": 630876,
