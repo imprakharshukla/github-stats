@@ -59,6 +59,12 @@
         "color": "#012456",
         "prop": 0.041227750959778965
     },
+    "JavaScript": {
+        "size": 2033821,
+        "occurrences": 78,
+        "color": "#f1e05a",
+        "prop": 3.1592579663452245
+    },
     "TypeScript": {
         "size": 20640089,
         "occurrences": 58,
@@ -88,12 +94,6 @@
         "occurrences": 2,
         "color": "#3D6117",
         "prop": 0.9328118452341203
-    },
-    "JavaScript": {
-        "size": 2033821,
-        "occurrences": 78,
-        "color": "#f1e05a",
-        "prop": 3.1592579663452245
     },
     "Jupyter Notebook": {
         "size": 8878702,
