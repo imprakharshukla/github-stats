@@ -5,24 +5,6 @@
         "color": "#3178c6",
         "prop": 32.77367469417068
     },
-    "JavaScript": {
-        "size": 6899267,
-        "occurrences": 83,
-        "color": "#f1e05a",
-        "prop": 9.50186378889915
-    },
-    "CSS": {
-        "size": 2319542,
-        "occurrences": 60,
-        "color": "#663399",
-        "prop": 3.194538222195302
-    },
-    "Python": {
-        "size": 23131508,
-        "occurrences": 17,
-        "color": "#3572A5",
-        "prop": 31.857360825118235
-    },
     "Astro": {
         "size": 68902,
         "occurrences": 1,
@@ -35,11 +17,29 @@
         "color": "#fcb32c",
         "prop": 0.27415514016338716
     },
+    "CSS": {
+        "size": 2319542,
+        "occurrences": 60,
+        "color": "#663399",
+        "prop": 3.194538222195302
+    },
     "TeX": {
         "size": 600512,
         "occurrences": 2,
         "color": "#3D6117",
         "prop": 0.8270419491808922
+    },
+    "JavaScript": {
+        "size": 6899267,
+        "occurrences": 83,
+        "color": "#f1e05a",
+        "prop": 9.50186378889915
+    },
+    "Python": {
+        "size": 23131508,
+        "occurrences": 17,
+        "color": "#3572A5",
+        "prop": 31.857360825118235
     },
     "HTML": {
         "size": 632148,
